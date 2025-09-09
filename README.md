@@ -16,9 +16,8 @@
 
 ### 📊 GitHub Stats
 ![Jan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jANI0x&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jANI0x&layout=compact&theme=radical)
 
 ---
 
 ### 🌍 Find Me Online
-- [LinkedIn](https://www.linkedin.com/in/your-link)  
+- [Instagram](https://instagram.com/jan.schantl)  
