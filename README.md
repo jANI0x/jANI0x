@@ -20,4 +20,4 @@
 ---
 
 ### 🌍 Find Me Online
-- [Instagram](https://instagram.com/jan.schantl)  
+- [Instagram](https://www.instagram.com/jan.schantl/)  
