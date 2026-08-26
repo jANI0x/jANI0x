@@ -20,4 +20,4 @@
 ---
 
 ### 🌍 Find Me Online
-- [Instagram](https://www.instagram.com/jan.schantl/)  
+- I don't use social media. If you want to get in touch, I'm sure you'll find a way.
