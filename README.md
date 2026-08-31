@@ -11,12 +11,7 @@
 - **Languages:** Python, TypeScript, Java
 - **Frameworks & Tools:** React, Next.js, Node.js, Nest.js, SAPUI5, SAP CAP
 - **Databases:** PostgreSQL, Oracle, MongoDB
-
----
-
-### 📊 GitHub Stats
-![Jan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jANI0x&show_icons=true&theme=radical)  
-
+  
 ---
 
 ### 🌍 Find Me Online
