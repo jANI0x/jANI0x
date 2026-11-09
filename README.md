@@ -4,6 +4,7 @@
 - 🎓 Studying Computer Science at **TU Graz**
 - 💼 Working part-time at **All for One Austria**
 - 🏔️ Probably somewhere in the mountains when I’m offline
+- 🧗 Enjoying bouldering and climbing
 
 ---
 
@@ -15,4 +16,4 @@
 ---
 
 ### 🌍 Find Me Online
-- I don't use social media. If you want to get in touch, I'm sure you'll find a way.
+- I don't use social media anymore. If you want to get in touch, I'm sure you'll find a way.
