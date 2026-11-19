@@ -4,7 +4,7 @@
 - 🎓 Studying Computer Science at **TU Graz**
 - 💼 Working part-time at **All for One Austria**
 - 🏔️ Probably somewhere in the mountains when I’m offline
-- 🧗 Enjoying bouldering and climbing
+- 🧗 Enjoy bouldering and climbing
 
 ---
 
